@@ -1,0 +1,14 @@
+## Interface: 11302
+## Title: infensus-plus
+## Notes: Gildenaddon von infensus
+## Author: Push
+## Version: 0.1
+## SavedVariables: INFENSUS_OPTIONS
+
+## OptionalDeps: LibStub, AceGUI-3.0, AceConfig-3.0, LibSharedMedia-3.0, AceGUI-3.0-SharedMediaWidgets
+## X-Embeds: LibStub, Ace3, LibSharedMedia-3.0, AceGUI-3.0-SharedMediaWidgets, LibThreatClassic2
+
+libs\AceLibrary\AceLibrary.lua
+libs\AceOO-2.0\AceOO-2.0.lua
+libs\AceEvent-2.0\AceEvent-2.0.lua
+infensusPlus.xml
